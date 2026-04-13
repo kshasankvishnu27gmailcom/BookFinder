@@ -53,10 +53,6 @@ src/
 
 ---
 
-## 📸 Screenshots (optional)
-_Add screenshots here once you run the project for better presentation._
-
----
 
 ## 🛠️ Technologies Used
 - **React.js** – Frontend framework  
@@ -68,8 +64,3 @@ _Add screenshots here once you run the project for better presentation._
 ## 🙌 Acknowledgements
 - Data powered by [Open Library](https://openlibrary.org/)  
 - React community for tooling and support  
-
----
-
-## 📜 License
-This project is licensed under the MIT License. Feel free to use and modify it.  
